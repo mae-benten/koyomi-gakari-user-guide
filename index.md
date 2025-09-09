@@ -25,7 +25,7 @@ title: "こよみがかり ユーザーガイド"
 
 ## こよみがかり について
 
-「こよみがかり」は、Discordコミュニティの予定をGoogleカレンダーと連携して共有・管理できるBOTシステムです。
+「こよみがかり」は Discordコミュニティの予定をGoogleカレンダーと連携して共有・管理できるBOTシステムです。
 
 ![カレンダー管理パネル](assets/images/screenshots/panel.png)
 
